@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="book_title">This is the Book what you are finding from google </string>
+    <string name="book_author">Author Name</string>
+    <string name="book_publisher">Publisher Name</string>
+    <string name="no_data_found">No data found for your search</string>
+    <string name="no_network">No Internet connection</string>
+    <string name="internet_connection">Network Available</string>
+    <string name="search_here">Search books </string>
+    <string name="alert_message">* Keyword is required to search</string>
+
+    <string name="name">Book Title</string>
+    <string name="author">Author</string>
+    <string name="publishedBy">Published By</string>
+    <string name="publishedOn">Published On</string>
+
+    <string name="search_topic">Search here for anything...</string>
+    <string name="search_title">Search</string>
+    <string name="search_refresh">Refresh</string>
+
+
+</resources>
